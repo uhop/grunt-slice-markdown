@@ -58,6 +58,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
+- 0.3.3 *refreshed dependencies.*
 - 0.3.2 *refreshed dependencies.*
 - 0.3.1 *refreshed dependencies.*
 - 0.3.0 *added `attrProcessor()`.*
@@ -78,6 +79,6 @@ BSD
 [deps-image]:     https://img.shields.io/david/uhop/grunt-slice-markdown.svg
 [deps-url]:       https://david-dm.org/uhop/grunt-slice-markdown
 [dev-deps-image]: https://img.shields.io/david/dev/uhop/grunt-slice-markdown.svg
-[dev-deps-url]:   https://david-dm.org/uhop/grunt-slice-markdown#info=devDependencies
+[dev-deps-url]:   https://david-dm.org/uhop/grunt-slice-markdown?type=dev
 [travis-image]:   https://img.shields.io/travis/uhop/grunt-slice-markdown.svg
 [travis-url]:     https://travis-ci.org/uhop/grunt-slice-markdown
