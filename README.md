@@ -58,6 +58,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
+- 0.3.4 *refreshed dependencies.*
 - 0.3.3 *refreshed dependencies.*
 - 0.3.2 *refreshed dependencies.*
 - 0.3.1 *refreshed dependencies.*
