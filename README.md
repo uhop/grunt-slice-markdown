@@ -1,5 +1,7 @@
 # grunt-slice-markdown
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/uhop/grunt-slice-markdown.svg)](https://greenkeeper.io/)
+
 [![Build status][travis-image]][travis-url]
 [![Dependencies][deps-image]][deps-url]
 [![devDependencies][dev-deps-image]][dev-deps-url]
