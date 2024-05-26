@@ -37,7 +37,7 @@
     "markdown-it-highlightjs": "^3.0.0",
     "markdown-it-ins": "^2.0.0",
     "markdown-it-mark": "^2.0.0",
-    "markdown-it-math": "^4.1.0",
+    "markdown-it-math": "^4.1.1",
     "markdown-it-smartarrows": "^1.0.1",
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
